@@ -1,0 +1,1011 @@
+ID,Name,Age,City,Salary
+1,,59.0,San Diego,43267.0
+2,Charlie,54.0,San Diego,57520.0
+3,Emma,23.0,Los Angeles,37445.0
+4,Fiona,36.0,San Jose,77468.0
+5,George,38.0,Houston,48639.0
+6,Fiona,32.0,Los Angeles,66590.0
+7,Julia,21.0,Philadelphia,56283.0
+8,David,46.0,Dallas,72509.0
+9,Ian,54.0,Houston,72154.0
+10,Charlie,38.0,San Diego,96825.0
+11,Emma,36.0,Los Angeles,81495.0
+12,Julia,38.0,Dallas,80961.0
+13,Emma,77.0,San Diego,48494.0
+14,Emma,27.0,San Diego,32443.0
+15,Alice,29.0,Phoenix,41682.0
+16,Charlie,39.0,,99510.0
+17,Julia,50.0,San Diego,84009.0
+18,Hannah,52.0,Philadelphia,61075.0
+19,George,38.0,San Diego,95725.0
+20,George,56.0,Philadelphia,71731.0
+21,Charlie,58.0,San Diego,61906.0
+22,Ian,51.0,San Antonio,91097.0
+23,David,22.0,New York,53775.0
+24,Julia,39.0,New York,43004.0
+25,Julia,56.0,San Diego,84426.0
+26,David,20.0,San Antonio,65793.0
+27,Julia,34.0,San Antonio,85807.0
+28,Julia,41.0,San Diego,36385.0
+29,Bob,52.0,New York,91373.0
+30,Fiona,29.0,San Diego,57532.0
+31,Julia,27.0,Chicago,76945.0
+32,Bob,37.0,San Jose,48936.0
+33,George,19.0,Dallas,75533.0
+34,Ian,54.0,Philadelphia,40377.0
+35,Hannah,60.0,,31762.0
+36,George,31.0,New York,80016.0
+37,David,55.0,Los Angeles,53931.0
+38,Bob,50.0,Dallas,60001.0
+39,Hannah,51.0,New York,60489.0
+40,George,24.0,New York,67864.0
+41,Ian,21.0,Los Angeles,32150.0
+42,Bob,43.0,San Jose,88687.0
+43,Emma,30.0,Los Angeles,64835.0
+44,George,21.0,Dallas,31485.0
+45,Charlie,56.0,Chicago,58855.0
+46,Bob,31.0,Houston,86419.0
+47,Fiona,20.0,Los Angeles,57001.0
+48,Ian,36.0,San Jose,66424.0
+49,Julia,48.0,Houston,42772.0
+50,Alice,48.0,San Jose,45516.0
+51,Fiona,35.0,Los Angeles,65340.0
+52,Hannah,44.0,San Diego,77860.0
+53,Emma,33.0,San Jose,67962.0
+54,Alice,59.0,San Diego,59104.0
+55,George,28.0,Chicago,86330.0
+56,Alice,55.0,San Jose,69036.0
+57,David,23.0,Philadelphia,68892.0
+58,Bob,53.0,San Diego,76578.0
+59,Emma,31.0,Philadelphia,72007.0
+60,Bob,55.0,Philadelphia,57779.0
+61,George,18.0,Chicago,74667.0
+62,Hannah,51.0,San Diego,49406.0
+63,Fiona,25.0,New York,53526.0
+64,Ian,20.0,Houston,55218.0
+65,Julia,43.0,Los Angeles,58861.0
+66,Julia,58.0,Houston,82373.0
+67,Bob,38.0,Phoenix,
+68,Bob,20.0,Dallas,40827.0
+69,George,39.0,San Antonio,30966.0
+70,Ian,57.0,Phoenix,71247.0
+71,Fiona,50.0,New York,74408.0
+72,Alice,18.0,Phoenix,63100.0
+73,Charlie,54.0,Dallas,72273.0
+74,Alice,47.0,San Antonio,35607.0
+75,Bob,20.0,San Diego,75830.0
+76,Julia,30.0,San Antonio,37124.0
+77,George,26.0,New York,38520.0
+78,George,47.0,San Antonio,90716.0
+79,Charlie,55.0,Houston,48162.0
+80,George,55.0,San Diego,42010.0
+81,Hannah,56.0,Chicago,93095.0
+82,Emma,23.0,Philadelphia,51548.0
+83,Alice,58.0,San Diego,66897.0
+84,David,43.0,San Jose,42251.0
+85,Ian,34.0,New York,86216.0
+86,George,21.0,San Diego,46096.0
+87,Alice,30.0,San Antonio,33567.0
+88,Julia,46.0,San Antonio,65848.0
+89,Hannah,56.0,Houston,31725.0
+90,Hannah,40.0,New York,95201.0
+91,Ian,45.0,Houston,
+92,Alice,24.0,San Jose,32642.0
+93,George,19.0,Houston,79443.0
+94,Emma,27.0,San Jose,74801.0
+95,Emma,37.0,,98676.0
+96,Alice,23.0,Dallas,78006.0
+97,Fiona,46.0,New York,83462.0
+98,Emma,50.0,Dallas,92438.0
+99,Charlie,25.0,Dallas,46073.0
+100,Julia,37.0,New York,57123.0
+101,Alice,43.0,Los Angeles,56924.0
+102,David,48.0,Philadelphia,50182.0
+103,Bob,40.0,Phoenix,48241.0
+104,Bob,42.0,Phoenix,65464.0
+105,Ian,59.0,Philadelphia,75283.0
+106,Alice,52.0,San Jose,79379.0
+107,Bob,26.0,Houston,39872.0
+108,Bob,20.0,San Jose,51901.0
+109,Julia,29.0,Phoenix,68905.0
+110,Alice,18.0,Houston,47355.0
+111,Alice,32.0,San Jose,36065.0
+112,David,31.0,Dallas,47137.0
+113,Emma,48.0,Dallas,74273.0
+114,Ian,39.0,San Antonio,
+115,Fiona,22.0,Dallas,83728.0
+116,Charlie,26.0,San Jose,89816.0
+117,Ian,18.0,Phoenix,72329.0
+118,Emma,54.0,New York,65679.0
+119,Julia,21.0,Houston,79600.0
+120,Julia,36.0,Chicago,32945.0
+121,Emma,42.0,San Antonio,44284.0
+122,Bob,26.0,Phoenix,92024.0
+123,Hannah,21.0,Houston,42742.0
+124,Emma,39.0,Dallas,45725.0
+125,Hannah,32.0,Chicago,84106.0
+126,,31.0,San Jose,76363.0
+127,Ian,48.0,San Jose,35908.0
+128,Fiona,20.0,San Diego,85379.0
+129,Julia,,Chicago,35369.0
+130,Fiona,57.0,Houston,37121.0
+131,Hannah,24.0,San Diego,92699.0
+132,Bob,40.0,Los Angeles,83970.0
+133,Charlie,32.0,Chicago,89571.0
+134,Alice,23.0,Los Angeles,95001.0
+135,Emma,21.0,Houston,
+136,George,60.0,San Antonio,67932.0
+137,Julia,33.0,Phoenix,38932.0
+138,Julia,19.0,Houston,46267.0
+139,Hannah,40.0,Chicago,88502.0
+140,Bob,55.0,Dallas,71829.0
+141,Bob,37.0,San Jose,71421.0
+142,Alice,57.0,Philadelphia,97789.0
+143,Julia,43.0,San Diego,49116.0
+144,Bob,18.0,San Antonio,149726.0
+145,George,34.0,Chicago,96706.0
+146,David,38.0,San Antonio,46872.0
+147,,23.0,Philadelphia,94337.0
+148,Julia,18.0,San Diego,35210.0
+149,Hannah,49.0,New York,90030.0
+150,Hannah,58.0,San Antonio,77860.0
+151,Alice,42.0,Philadelphia,34612.0
+152,Fiona,51.0,Houston,41425.0
+153,Julia,57.0,Dallas,66514.0
+154,Fiona,21.0,Philadelphia,86531.0
+155,Hannah,37.0,Chicago,82496.0
+156,Julia,45.0,Chicago,88232.0
+157,Julia,20.0,Phoenix,34386.0
+158,Julia,31.0,Houston,90273.0
+159,Emma,36.0,Houston,36694.0
+160,David,47.0,Dallas,86203.0
+161,Emma,42.0,Phoenix,30828.0
+162,Alice,21.0,Philadelphia,59859.0
+163,Fiona,32.0,New York,38595.0
+164,David,57.0,New York,87912.0
+165,Charlie,44.0,Dallas,46655.0
+166,Fiona,51.0,San Jose,69288.0
+167,Bob,23.0,Philadelphia,57011.0
+168,,,Philadelphia,49977.0
+169,Bob,54.0,Houston,76800.0
+170,Charlie,40.0,San Antonio,63643.0
+171,David,59.0,San Jose,83971.0
+172,Julia,18.0,Houston,149726.0
+173,David,57.0,Dallas,46344.0
+174,Hannah,57.0,New York,90987.0
+175,Alice,51.0,San Jose,75768.0
+176,Ian,55.0,Phoenix,55926.0
+177,Emma,43.0,San Diego,86322.0
+178,Emma,34.0,Houston,86330.0
+179,Ian,43.0,San Diego,81809.0
+180,David,31.0,Chicago,96343.0
+181,George,45.0,Houston,45106.0
+182,David,40.0,San Antonio,30396.0
+183,Ian,35.0,Philadelphia,69577.0
+184,Ian,58.0,New York,82292.0
+185,Fiona,55.0,Chicago,41056.0
+186,Alice,18.0,Philadelphia,84370.0
+187,David,40.0,Los Angeles,55463.0
+188,Fiona,39.0,Houston,58316.0
+189,David,42.0,New York,59954.0
+190,Bob,43.0,San Jose,
+191,Julia,55.0,San Antonio,40170.0
+192,Charlie,34.0,Los Angeles,64224.0
+193,Charlie,21.0,Los Angeles,34423.0
+194,Ian,44.0,Dallas,61338.0
+195,Julia,28.0,Los Angeles,66041.0
+196,George,33.0,Phoenix,66803.0
+197,David,36.0,Dallas,49197.0
+198,Alice,29.0,Chicago,
+199,David,50.0,San Diego,149726.0
+200,Emma,60.0,San Jose,35505.0
+201,Ian,35.0,Chicago,45111.0
+202,Bob,35.0,San Diego,89972.0
+203,George,32.0,Philadelphia,71802.0
+204,Bob,26.0,Phoenix,37194.0
+205,Charlie,49.0,Dallas,51636.0
+206,Hannah,40.0,Dallas,31949.0
+207,Julia,31.0,San Diego,73145.0
+208,Hannah,35.0,Los Angeles,83908.0
+209,Hannah,24.0,Dallas,51706.0
+210,Ian,60.0,Houston,70256.0
+211,Emma,36.0,Chicago,99663.0
+212,Julia,58.0,San Antonio,88789.0
+213,Hannah,36.0,San Antonio,57270.0
+214,,46.0,Dallas,62370.0
+215,Bob,48.0,New York,54185.0
+216,Hannah,24.0,Los Angeles,48635.0
+217,Ian,49.0,San Jose,98055.0
+218,Bob,22.0,Los Angeles,85405.0
+219,Charlie,36.0,San Antonio,77562.0
+220,Charlie,49.0,San Antonio,41096.0
+221,Julia,33.0,Chicago,36976.0
+222,Bob,46.0,Dallas,59942.0
+223,Ian,24.0,New York,69430.0
+224,Julia,42.0,Dallas,48314.0
+225,Julia,19.0,Dallas,76444.0
+226,Alice,32.0,Los Angeles,83635.0
+227,Alice,47.0,Philadelphia,51822.0
+228,George,47.0,Phoenix,30619.0
+229,Emma,,Phoenix,96153.0
+230,Charlie,49.0,Houston,86978.0
+231,Fiona,38.0,San Antonio,65276.0
+232,Charlie,22.0,Dallas,65961.0
+233,Ian,32.0,New York,80879.0
+234,David,46.0,Los Angeles,52577.0
+235,Fiona,23.0,San Diego,80382.0
+236,Julia,25.0,San Diego,42799.0
+237,Fiona,22.0,New York,38675.0
+238,Alice,25.0,Dallas,55460.0
+239,Fiona,56.0,Dallas,93325.0
+240,David,35.0,Dallas,99131.0
+241,David,31.0,Los Angeles,36886.0
+242,Emma,45.0,San Antonio,
+243,Julia,34.0,Chicago,93047.0
+244,,36.0,Chicago,57149.0
+245,David,47.0,Phoenix,72719.0
+246,Ian,38.0,Chicago,97367.0
+247,Hannah,40.0,San Jose,63024.0
+248,Ian,25.0,Dallas,59356.0
+249,Julia,60.0,San Antonio,34578.0
+250,Ian,27.0,San Diego,33768.0
+251,Bob,38.0,Houston,81906.0
+252,Hannah,42.0,Phoenix,56833.0
+253,Emma,45.0,Houston,62578.0
+254,Emma,18.0,New York,83900.0
+255,Hannah,56.0,Houston,90607.0
+256,Alice,55.0,New York,88527.0
+257,Emma,36.0,San Diego,93585.0
+258,Emma,33.0,Philadelphia,69696.0
+259,George,58.0,Houston,42433.0
+260,David,41.0,Houston,31589.0
+261,George,19.0,Los Angeles,92423.0
+262,Fiona,39.0,Dallas,88190.0
+263,George,47.0,Phoenix,50773.0
+264,Emma,49.0,,47307.0
+265,Alice,22.0,Chicago,48850.0
+266,Hannah,23.0,Philadelphia,50639.0
+267,George,30.0,Philadelphia,69826.0
+268,Bob,22.0,Dallas,41783.0
+269,Emma,49.0,Houston,89684.0
+270,Bob,31.0,San Antonio,46368.0
+271,Julia,59.0,Los Angeles,56527.0
+272,Julia,52.0,Houston,52275.0
+273,Bob,24.0,Chicago,58507.0
+274,Ian,55.0,San Antonio,67623.0
+275,Emma,32.0,Dallas,55826.0
+276,Bob,29.0,Dallas,70694.0
+277,David,26.0,Dallas,
+278,Charlie,18.0,San Diego,53862.0
+279,Alice,48.0,San Jose,47638.0
+280,Emma,42.0,San Antonio,74962.0
+281,,37.0,New York,34897.0
+282,Hannah,23.0,New York,93291.0
+283,Charlie,34.0,Houston,39287.0
+284,Emma,52.0,New York,62785.0
+285,Hannah,38.0,Houston,41890.0
+286,Bob,37.0,Phoenix,32027.0
+287,Alice,23.0,San Jose,38173.0
+288,George,24.0,Chicago,31084.0
+289,Emma,,Phoenix,50258.0
+290,Alice,55.0,Philadelphia,58198.0
+291,Hannah,49.0,San Antonio,149726.0
+292,Hannah,45.0,New York,85414.0
+293,Charlie,51.0,Chicago,62348.0
+294,George,35.0,Chicago,87300.0
+295,David,52.0,Los Angeles,59998.0
+296,Hannah,60.0,Los Angeles,45233.0
+297,Alice,38.0,Dallas,83314.0
+298,Charlie,26.0,Philadelphia,75880.0
+299,Charlie,57.0,Houston,39285.0
+300,Julia,31.0,Dallas,78579.0
+301,David,52.0,Dallas,91367.0
+302,Hannah,48.0,New York,45241.0
+303,Ian,43.0,Houston,95806.0
+304,Ian,40.0,Phoenix,44551.0
+305,Julia,57.0,New York,85372.0
+306,Julia,32.0,Chicago,63668.0
+307,David,31.0,New York,32477.0
+308,Charlie,53.0,New York,97216.0
+309,Charlie,25.0,New York,33932.0
+310,Alice,37.0,San Antonio,72855.0
+311,Charlie,54.0,Phoenix,86450.0
+312,Emma,41.0,San Antonio,78285.0
+313,Hannah,51.0,San Jose,87176.0
+314,Julia,20.0,Phoenix,92189.0
+315,Hannah,32.0,New York,94181.0
+316,Charlie,36.0,San Antonio,47946.0
+317,Ian,24.0,Phoenix,66602.0
+318,Bob,39.0,Houston,79760.0
+319,Charlie,30.0,San Diego,87433.0
+320,Julia,29.0,Houston,93401.0
+321,George,40.0,Philadelphia,38016.0
+322,Fiona,53.0,Houston,84988.0
+323,Bob,30.0,San Antonio,50587.0
+324,Julia,77.0,Philadelphia,98593.0
+325,David,21.0,San Diego,34490.0
+326,Alice,23.0,Phoenix,39334.0
+327,Charlie,30.0,Philadelphia,
+328,Bob,49.0,San Diego,84579.0
+329,Ian,39.0,Dallas,38731.0
+330,Emma,41.0,San Antonio,51705.0
+331,Bob,46.0,Phoenix,43426.0
+332,Charlie,20.0,San Antonio,96457.0
+333,Julia,46.0,New York,54597.0
+334,Julia,42.0,San Antonio,83915.0
+335,George,48.0,Dallas,56170.0
+336,Fiona,53.0,Chicago,91917.0
+337,Bob,46.0,San Diego,83758.0
+338,Hannah,77.0,Chicago,33287.0
+339,Emma,49.0,New York,71026.0
+340,George,23.0,San Jose,65332.0
+341,Hannah,41.0,San Diego,48054.0
+342,George,30.0,New York,
+343,Hannah,53.0,Houston,
+344,David,50.0,San Antonio,68859.0
+345,Emma,27.0,San Jose,78946.0
+346,Emma,,Los Angeles,92045.0
+347,Julia,21.0,Phoenix,36748.0
+348,David,29.0,New York,45400.0
+349,David,23.0,Houston,62495.0
+350,Bob,37.0,,76475.0
+351,Charlie,46.0,Philadelphia,66142.0
+352,Alice,21.0,San Jose,54877.0
+353,,48.0,San Diego,66891.0
+354,Julia,,Phoenix,68559.0
+355,Bob,27.0,Phoenix,78437.0
+356,David,30.0,Phoenix,87414.0
+357,Emma,51.0,San Jose,63605.0
+358,Alice,28.0,Dallas,57583.0
+359,Charlie,77.0,Phoenix,42788.0
+360,George,35.0,San Jose,34950.0
+361,George,59.0,New York,35371.0
+362,Alice,20.0,San Antonio,77003.0
+363,Alice,49.0,New York,35061.0
+364,Fiona,43.0,San Jose,59515.0
+365,David,46.0,Chicago,49875.0
+366,Ian,36.0,New York,99226.0
+367,Hannah,32.0,New York,46654.0
+368,Fiona,22.0,Dallas,79540.0
+369,Emma,18.0,New York,39533.0
+370,Bob,58.0,Los Angeles,91058.0
+371,Bob,55.0,San Antonio,72627.0
+372,Charlie,47.0,Phoenix,36710.0
+373,Charlie,26.0,Philadelphia,57580.0
+374,Bob,51.0,Los Angeles,60440.0
+375,Emma,55.0,Houston,89006.0
+376,Fiona,31.0,San Diego,45467.0
+377,George,38.0,Los Angeles,97911.0
+378,Emma,22.0,,87559.0
+379,Julia,37.0,Philadelphia,39422.0
+380,Ian,57.0,Phoenix,63511.0
+381,Ian,43.0,Dallas,75815.0
+382,George,50.0,Chicago,57158.0
+383,Hannah,20.0,San Diego,65576.0
+384,Alice,27.0,San Antonio,82439.0
+385,David,48.0,San Jose,54810.0
+386,Fiona,56.0,Houston,66047.0
+387,Julia,29.0,Philadelphia,83900.0
+388,David,22.0,New York,71124.0
+389,Emma,45.0,Phoenix,62363.0
+390,Alice,43.0,San Diego,37010.0
+391,Hannah,43.0,,79207.0
+392,Ian,32.0,San Antonio,37968.0
+393,Hannah,48.0,Chicago,74788.0
+394,David,49.0,Phoenix,94148.0
+395,Ian,53.0,Chicago,54722.0
+396,David,30.0,New York,93935.0
+397,Charlie,19.0,Los Angeles,56893.0
+398,Alice,46.0,Dallas,68421.0
+399,Bob,28.0,San Antonio,61794.0
+400,Alice,51.0,San Antonio,30636.0
+401,Fiona,77.0,San Diego,47241.0
+402,George,21.0,San Diego,42611.0
+403,George,19.0,,66103.0
+404,Hannah,35.0,San Diego,34787.0
+405,Hannah,53.0,New York,82515.0
+406,Fiona,31.0,New York,83739.0
+407,Bob,59.0,Phoenix,54307.0
+408,Hannah,21.0,Dallas,76984.0
+409,Hannah,24.0,San Antonio,59325.0
+410,George,53.0,Philadelphia,45185.0
+411,Hannah,77.0,Chicago,73846.0
+412,Emma,41.0,Houston,94870.0
+413,Charlie,36.0,San Diego,39380.0
+414,Emma,25.0,San Antonio,82580.0
+415,Alice,22.0,San Antonio,63759.0
+416,Ian,40.0,Chicago,72781.0
+417,Fiona,41.0,Chicago,77229.0
+418,Julia,20.0,Chicago,63968.0
+419,George,57.0,Houston,85381.0
+420,Charlie,39.0,Philadelphia,83127.0
+421,Alice,53.0,Chicago,74785.0
+422,Bob,57.0,San Diego,83667.0
+423,Bob,53.0,Los Angeles,33681.0
+424,Charlie,51.0,San Antonio,53016.0
+425,Emma,44.0,New York,86112.0
+426,Ian,35.0,Los Angeles,34681.0
+427,Fiona,37.0,Phoenix,45442.0
+428,David,23.0,Los Angeles,52095.0
+429,Alice,40.0,Houston,37329.0
+430,Bob,38.0,Phoenix,53142.0
+431,Bob,54.0,Dallas,39093.0
+432,David,22.0,Dallas,89740.0
+433,Ian,24.0,New York,49129.0
+434,Charlie,29.0,Houston,93775.0
+435,Bob,46.0,Dallas,44783.0
+436,Emma,21.0,Chicago,66313.0
+437,Julia,24.0,Dallas,38956.0
+438,Fiona,42.0,Chicago,149726.0
+439,Alice,31.0,New York,36106.0
+440,Hannah,55.0,Houston,81465.0
+441,George,53.0,Phoenix,40582.0
+442,Hannah,41.0,San Diego,43498.0
+443,Fiona,28.0,San Diego,79464.0
+444,George,56.0,Chicago,54495.0
+445,Charlie,54.0,San Diego,72749.0
+446,David,29.0,Chicago,43492.0
+447,David,31.0,New York,41368.0
+448,David,25.0,Phoenix,37319.0
+449,Alice,51.0,San Diego,81003.0
+450,Emma,18.0,Houston,63018.0
+451,Emma,36.0,San Diego,90936.0
+452,George,48.0,San Jose,90197.0
+453,Julia,58.0,San Antonio,61758.0
+454,George,45.0,Phoenix,49122.0
+455,Ian,36.0,New York,
+456,David,47.0,San Antonio,46896.0
+457,Fiona,38.0,San Jose,32736.0
+458,Emma,54.0,New York,65223.0
+459,Hannah,58.0,San Diego,49378.0
+460,Charlie,23.0,New York,90855.0
+461,Bob,29.0,Dallas,86820.0
+462,Emma,33.0,San Antonio,92371.0
+463,Fiona,54.0,Dallas,91949.0
+464,Julia,59.0,Los Angeles,96823.0
+465,Fiona,40.0,San Diego,85487.0
+466,David,41.0,San Jose,53640.0
+467,Charlie,20.0,Houston,67289.0
+468,Bob,46.0,Houston,67534.0
+469,Ian,34.0,Houston,44124.0
+470,Ian,36.0,Los Angeles,78645.0
+471,Hannah,52.0,San Jose,71360.0
+472,Ian,57.0,Chicago,96226.0
+473,George,22.0,San Antonio,97627.0
+474,Bob,31.0,San Antonio,33597.0
+475,Fiona,36.0,Houston,55089.0
+476,Bob,33.0,Dallas,91616.0
+477,George,49.0,Chicago,52664.0
+478,,47.0,Los Angeles,83352.0
+479,Fiona,45.0,Los Angeles,36613.0
+480,Bob,36.0,San Diego,93533.0
+481,Ian,49.0,,32234.0
+482,David,58.0,San Jose,80935.0
+483,Fiona,29.0,San Jose,71898.0
+484,Julia,20.0,San Antonio,58968.0
+485,Charlie,27.0,Chicago,61926.0
+486,Ian,55.0,San Antonio,40788.0
+487,David,59.0,Chicago,51372.0
+488,Ian,77.0,New York,81324.0
+489,Bob,59.0,Houston,85420.0
+490,Emma,21.0,San Jose,36732.0
+491,Emma,,Philadelphia,74007.0
+492,Julia,46.0,New York,39850.0
+493,Charlie,56.0,San Jose,45391.0
+494,Alice,48.0,Philadelphia,62555.0
+495,Hannah,49.0,Houston,55956.0
+496,Charlie,44.0,San Diego,74921.0
+497,David,55.0,San Antonio,94768.0
+498,George,37.0,Philadelphia,40967.0
+499,David,25.0,Houston,31572.0
+500,Emma,49.0,Dallas,37772.0
+501,David,19.0,Dallas,73712.0
+502,Emma,38.0,Chicago,67463.0
+503,Ian,35.0,Philadelphia,77871.0
+504,George,21.0,Philadelphia,55279.0
+505,Charlie,27.0,Phoenix,72168.0
+506,Alice,58.0,San Diego,46761.0
+507,Hannah,35.0,Dallas,80364.0
+508,Ian,46.0,Chicago,45317.0
+509,Charlie,18.0,Dallas,
+510,Bob,58.0,Houston,73650.0
+511,Alice,25.0,San Jose,92559.0
+512,Hannah,56.0,New York,56867.0
+513,David,37.0,Dallas,92649.0
+514,Bob,36.0,Chicago,96212.0
+515,Julia,45.0,Houston,30053.0
+516,Emma,24.0,Los Angeles,82003.0
+517,Bob,46.0,Philadelphia,53293.0
+518,Bob,53.0,Dallas,51642.0
+519,,31.0,Chicago,50640.0
+520,Ian,44.0,New York,91384.0
+521,Alice,55.0,Houston,35906.0
+522,Alice,19.0,Houston,67786.0
+523,Hannah,58.0,San Antonio,66877.0
+524,Bob,43.0,Philadelphia,50687.0
+525,Alice,56.0,Philadelphia,55011.0
+526,Emma,55.0,Chicago,60435.0
+527,Charlie,30.0,New York,60482.0
+528,David,53.0,San Jose,38623.0
+529,Alice,28.0,Chicago,85622.0
+530,Hannah,39.0,Chicago,94678.0
+531,Julia,54.0,Los Angeles,54128.0
+532,Fiona,44.0,Phoenix,82276.0
+533,Ian,27.0,San Diego,65144.0
+534,Bob,41.0,Los Angeles,
+535,Hannah,38.0,Phoenix,52055.0
+536,George,40.0,San Diego,43717.0
+537,Charlie,55.0,Houston,36841.0
+538,David,22.0,Houston,36678.0
+539,Charlie,54.0,Dallas,41447.0
+540,Alice,22.0,San Diego,54989.0
+541,Bob,31.0,San Diego,74046.0
+542,Alice,41.0,New York,87204.0
+543,Ian,19.0,San Antonio,46964.0
+544,Ian,50.0,San Jose,67611.0
+545,Fiona,41.0,Phoenix,87437.0
+546,Alice,30.0,Chicago,90276.0
+547,Emma,21.0,Houston,84971.0
+548,Bob,20.0,Dallas,33411.0
+549,David,31.0,Houston,51216.0
+550,David,53.0,San Antonio,61016.0
+551,Julia,22.0,Los Angeles,98458.0
+552,Emma,22.0,San Antonio,43577.0
+553,,47.0,Philadelphia,33757.0
+554,Charlie,21.0,,93424.0
+555,David,39.0,San Antonio,69404.0
+556,George,49.0,San Antonio,49498.0
+557,George,58.0,San Antonio,72117.0
+558,Julia,36.0,San Jose,46123.0
+559,Bob,20.0,Chicago,73201.0
+560,,26.0,,48558.0
+561,Emma,31.0,Chicago,82444.0
+562,Fiona,39.0,Chicago,90987.0
+563,Hannah,55.0,San Antonio,52984.0
+564,Hannah,58.0,New York,75191.0
+565,Hannah,55.0,Chicago,56520.0
+566,Alice,52.0,Chicago,66039.0
+567,George,60.0,Phoenix,32146.0
+568,Fiona,31.0,Los Angeles,90249.0
+569,George,47.0,New York,71067.0
+570,Charlie,34.0,San Jose,61370.0
+571,David,29.0,San Jose,95690.0
+572,Emma,54.0,Philadelphia,35126.0
+573,Charlie,59.0,Dallas,48237.0
+574,Alice,40.0,Los Angeles,37672.0
+575,Emma,37.0,New York,65542.0
+576,Bob,55.0,Dallas,36754.0
+577,Emma,24.0,San Antonio,38536.0
+578,George,32.0,Philadelphia,75173.0
+579,Ian,44.0,San Antonio,39655.0
+580,George,45.0,Phoenix,36770.0
+581,Alice,58.0,San Diego,96196.0
+582,Julia,38.0,Chicago,34269.0
+583,George,42.0,San Antonio,67625.0
+584,Hannah,47.0,Los Angeles,42589.0
+585,George,40.0,Dallas,39563.0
+586,Julia,46.0,,64217.0
+587,David,24.0,Los Angeles,57914.0
+588,Hannah,34.0,New York,64224.0
+589,Alice,42.0,Houston,55862.0
+590,Alice,27.0,San Diego,96357.0
+591,Charlie,60.0,San Antonio,149726.0
+592,Alice,43.0,Philadelphia,81610.0
+593,Charlie,56.0,Dallas,67318.0
+594,Charlie,55.0,Dallas,44990.0
+595,Hannah,45.0,Dallas,98453.0
+596,Ian,39.0,Phoenix,57326.0
+597,David,33.0,New York,88534.0
+598,Bob,46.0,Los Angeles,50200.0
+599,George,58.0,San Diego,71604.0
+600,Hannah,44.0,Chicago,82236.0
+601,,52.0,Houston,71845.0
+602,George,22.0,San Diego,58635.0
+603,Julia,26.0,Dallas,78444.0
+604,David,45.0,Los Angeles,44630.0
+605,David,55.0,Chicago,
+606,George,44.0,Philadelphia,34234.0
+607,Fiona,58.0,San Diego,93506.0
+608,Julia,32.0,Phoenix,86668.0
+609,Alice,42.0,San Antonio,44256.0
+610,George,42.0,Philadelphia,51245.0
+611,David,47.0,San Diego,86926.0
+612,Ian,28.0,Philadelphia,83086.0
+613,Julia,43.0,Philadelphia,59786.0
+614,Julia,43.0,San Antonio,45747.0
+615,Emma,21.0,Dallas,43034.0
+616,Bob,35.0,Phoenix,39439.0
+617,Bob,56.0,San Diego,65314.0
+618,Charlie,25.0,San Jose,48480.0
+619,Alice,27.0,Los Angeles,30931.0
+620,Bob,,Phoenix,88483.0
+621,George,24.0,Philadelphia,42908.0
+622,Bob,22.0,Houston,98730.0
+623,Fiona,21.0,San Jose,56226.0
+624,Alice,57.0,Phoenix,32515.0
+625,Charlie,37.0,San Jose,98027.0
+626,David,53.0,San Antonio,67934.0
+627,David,,Los Angeles,77716.0
+628,Hannah,27.0,San Diego,62168.0
+629,Ian,36.0,Dallas,68244.0
+630,Alice,31.0,Chicago,68170.0
+631,Alice,34.0,Chicago,69643.0
+632,Alice,,San Jose,83903.0
+633,Hannah,26.0,Dallas,81360.0
+634,Fiona,55.0,San Diego,85460.0
+635,Alice,47.0,Houston,45311.0
+636,Julia,33.0,Phoenix,66840.0
+637,Julia,46.0,Philadelphia,94346.0
+638,Bob,32.0,Phoenix,74036.0
+639,Fiona,26.0,Los Angeles,63719.0
+640,Julia,18.0,Chicago,34854.0
+641,Ian,29.0,San Antonio,34527.0
+642,Julia,22.0,San Diego,60854.0
+643,David,59.0,Phoenix,73115.0
+644,Julia,32.0,San Antonio,41553.0
+645,Charlie,,New York,73230.0
+646,Alice,43.0,San Antonio,65793.0
+647,Ian,37.0,Chicago,92318.0
+648,Fiona,54.0,San Antonio,45028.0
+649,Julia,31.0,Philadelphia,93336.0
+650,David,31.0,San Antonio,90183.0
+651,Fiona,38.0,Dallas,44122.0
+652,George,58.0,Houston,149726.0
+653,Julia,38.0,Phoenix,77700.0
+654,Julia,38.0,Philadelphia,46755.0
+655,Julia,31.0,Phoenix,78549.0
+656,Emma,23.0,Los Angeles,69500.0
+657,Julia,40.0,Phoenix,90566.0
+658,Hannah,48.0,Dallas,84173.0
+659,Alice,24.0,New York,32332.0
+660,David,54.0,San Antonio,51641.0
+661,David,34.0,New York,50085.0
+662,Emma,38.0,Houston,36910.0
+663,Emma,22.0,Philadelphia,98529.0
+664,George,29.0,New York,69735.0
+665,Emma,60.0,Philadelphia,33780.0
+666,Hannah,49.0,Philadelphia,64283.0
+667,Julia,33.0,Los Angeles,49659.0
+668,Ian,29.0,Los Angeles,44694.0
+669,Bob,50.0,Los Angeles,85138.0
+670,Julia,20.0,Phoenix,96112.0
+671,David,59.0,San Diego,41972.0
+672,Hannah,53.0,San Jose,48059.0
+673,Julia,31.0,San Diego,61557.0
+674,George,35.0,San Diego,90794.0
+675,Charlie,38.0,Philadelphia,43623.0
+676,Fiona,51.0,New York,45093.0
+677,Hannah,22.0,San Diego,75685.0
+678,Hannah,55.0,New York,49494.0
+679,Julia,51.0,San Diego,34832.0
+680,Ian,24.0,Houston,67259.0
+681,George,58.0,New York,59890.0
+682,Ian,46.0,New York,83163.0
+683,Hannah,32.0,Philadelphia,43514.0
+684,Charlie,46.0,Chicago,71865.0
+685,Julia,44.0,San Diego,85515.0
+686,George,48.0,San Diego,92292.0
+687,Bob,77.0,Houston,98761.0
+688,Fiona,60.0,,53703.0
+689,George,33.0,Phoenix,62437.0
+690,,23.0,Houston,67574.0
+691,Julia,57.0,Houston,95048.0
+692,Alice,26.0,Phoenix,81892.0
+693,Bob,51.0,Phoenix,35988.0
+694,Charlie,38.0,San Diego,83024.0
+695,Ian,25.0,,97781.0
+696,Hannah,57.0,San Diego,149726.0
+697,Julia,29.0,New York,86078.0
+698,David,56.0,Dallas,43341.0
+699,Julia,55.0,Los Angeles,60178.0
+700,Hannah,55.0,Houston,64855.0
+701,,38.0,Philadelphia,58110.0
+702,George,38.0,San Diego,61407.0
+703,Hannah,40.0,Houston,38845.0
+704,Julia,33.0,,88786.0
+705,Ian,41.0,Dallas,72169.0
+706,Bob,28.0,Philadelphia,96709.0
+707,Julia,58.0,San Jose,50349.0
+708,Bob,54.0,Philadelphia,43541.0
+709,Ian,37.0,Chicago,48131.0
+710,Bob,26.0,Chicago,71051.0
+711,Bob,34.0,San Antonio,77153.0
+712,Julia,22.0,Dallas,67379.0
+713,Bob,77.0,San Antonio,82709.0
+714,Ian,28.0,Dallas,64132.0
+715,George,58.0,New York,73870.0
+716,David,41.0,Philadelphia,61727.0
+717,Julia,37.0,Houston,62070.0
+718,Ian,28.0,New York,92510.0
+719,David,46.0,San Diego,97737.0
+720,Julia,49.0,San Jose,90929.0
+721,Emma,42.0,San Antonio,64578.0
+722,Alice,40.0,Phoenix,37611.0
+723,Hannah,45.0,Phoenix,59231.0
+724,Fiona,43.0,Phoenix,43733.0
+725,Julia,,San Antonio,82936.0
+726,Ian,26.0,Phoenix,78622.0
+727,,42.0,San Jose,53401.0
+728,George,59.0,Phoenix,34610.0
+729,Julia,34.0,San Jose,69939.0
+730,Hannah,32.0,Dallas,62072.0
+731,Ian,31.0,San Diego,79975.0
+732,Hannah,22.0,Philadelphia,44291.0
+733,Julia,60.0,Houston,33490.0
+734,Hannah,45.0,Houston,68511.0
+735,David,57.0,Dallas,86308.0
+736,Alice,44.0,Phoenix,59755.0
+737,Julia,38.0,Chicago,68731.0
+738,Fiona,24.0,Dallas,39655.0
+739,George,59.0,Dallas,59354.0
+740,David,32.0,Dallas,71656.0
+741,Alice,43.0,Phoenix,80991.0
+742,Hannah,21.0,San Jose,89708.0
+743,David,40.0,Phoenix,99598.0
+744,Emma,32.0,New York,94612.0
+745,David,36.0,Houston,30968.0
+746,Emma,40.0,San Antonio,90757.0
+747,Alice,60.0,Philadelphia,53383.0
+748,Julia,27.0,Dallas,46960.0
+749,Alice,56.0,Dallas,
+750,Julia,24.0,Houston,30901.0
+751,Fiona,27.0,Houston,71355.0
+752,Alice,27.0,San Antonio,66677.0
+753,Julia,45.0,Philadelphia,47773.0
+754,Ian,37.0,Chicago,35660.0
+755,Hannah,46.0,Philadelphia,73069.0
+756,Hannah,23.0,Philadelphia,44533.0
+757,Emma,41.0,New York,81256.0
+758,George,47.0,Philadelphia,89233.0
+759,Hannah,26.0,Los Angeles,51645.0
+760,David,,San Diego,57451.0
+761,Bob,44.0,Dallas,57809.0
+762,Fiona,50.0,Phoenix,40674.0
+763,Emma,77.0,Philadelphia,59558.0
+764,David,44.0,Dallas,34561.0
+765,Hannah,30.0,Philadelphia,37609.0
+766,David,39.0,Phoenix,33109.0
+767,Emma,32.0,San Jose,66724.0
+768,Fiona,22.0,Philadelphia,50980.0
+769,Bob,19.0,San Antonio,56768.0
+770,Bob,32.0,Philadelphia,76997.0
+771,Charlie,24.0,Phoenix,59405.0
+772,Alice,33.0,Dallas,31803.0
+773,Charlie,35.0,New York,58186.0
+774,George,34.0,New York,42121.0
+775,Fiona,60.0,Los Angeles,88542.0
+776,Hannah,52.0,Philadelphia,46072.0
+777,Fiona,29.0,Dallas,88082.0
+778,George,57.0,San Diego,35260.0
+779,Julia,34.0,Philadelphia,
+780,Emma,23.0,San Antonio,34236.0
+781,Charlie,,San Jose,95341.0
+782,Julia,54.0,Philadelphia,44979.0
+783,Alice,30.0,San Diego,47586.0
+784,David,46.0,San Jose,71131.0
+785,David,43.0,San Antonio,57347.0
+786,Julia,24.0,San Diego,56618.0
+787,Alice,19.0,New York,67314.0
+788,Hannah,29.0,Chicago,88517.0
+789,David,49.0,San Antonio,56337.0
+790,Charlie,29.0,Philadelphia,99924.0
+791,David,26.0,Houston,74021.0
+792,Charlie,29.0,Dallas,95958.0
+793,Julia,18.0,San Antonio,31981.0
+794,Ian,41.0,San Antonio,67344.0
+795,Charlie,55.0,Chicago,75737.0
+796,David,39.0,Phoenix,83683.0
+797,David,24.0,Philadelphia,149726.0
+798,Emma,27.0,San Diego,80604.0
+799,Julia,42.0,Philadelphia,30014.0
+800,Fiona,38.0,Chicago,38918.0
+801,Julia,54.0,Dallas,87810.0
+802,Bob,47.0,New York,89896.0
+803,George,21.0,Phoenix,90214.0
+804,Hannah,53.0,San Antonio,43482.0
+805,Bob,27.0,New York,49274.0
+806,Emma,40.0,Houston,78321.0
+807,Julia,34.0,San Diego,79206.0
+808,Ian,45.0,Los Angeles,36095.0
+809,George,29.0,Chicago,43570.0
+810,Alice,23.0,San Jose,92978.0
+811,George,58.0,Phoenix,70131.0
+812,Alice,28.0,New York,53518.0
+813,Hannah,37.0,Chicago,75499.0
+814,Fiona,41.0,New York,48430.0
+815,Charlie,51.0,Los Angeles,46347.0
+816,Emma,32.0,San Jose,48791.0
+817,David,27.0,Houston,39391.0
+818,Alice,29.0,New York,47687.0
+819,David,27.0,Phoenix,50567.0
+820,Emma,60.0,San Diego,62225.0
+821,Ian,57.0,New York,74738.0
+822,Bob,48.0,Chicago,37941.0
+823,Hannah,46.0,Los Angeles,73197.0
+824,David,36.0,Dallas,84037.0
+825,Julia,60.0,Phoenix,36312.0
+826,David,41.0,San Antonio,56777.0
+827,Alice,28.0,Los Angeles,51182.0
+828,Emma,54.0,Dallas,96856.0
+829,David,45.0,New York,35315.0
+830,Fiona,,Houston,52683.0
+831,Hannah,58.0,New York,89960.0
+832,Julia,28.0,San Antonio,30235.0
+833,Ian,21.0,San Diego,73322.0
+834,,52.0,Dallas,64220.0
+835,Bob,47.0,Dallas,82728.0
+836,Fiona,60.0,San Diego,92373.0
+837,Julia,31.0,New York,86627.0
+838,David,48.0,New York,81160.0
+839,Charlie,34.0,Phoenix,67231.0
+840,Julia,20.0,Phoenix,56145.0
+841,Julia,53.0,Phoenix,
+842,Emma,33.0,Dallas,62923.0
+843,Emma,53.0,Chicago,54205.0
+844,Emma,56.0,San Diego,71604.0
+845,Hannah,25.0,Chicago,50398.0
+846,Alice,56.0,San Diego,89114.0
+847,Ian,32.0,,62749.0
+848,Charlie,39.0,San Antonio,69603.0
+849,Julia,,,74671.0
+850,Charlie,60.0,New York,33083.0
+851,Ian,52.0,Houston,95661.0
+852,Emma,43.0,Los Angeles,97633.0
+853,Fiona,55.0,,66865.0
+854,Julia,41.0,Phoenix,34738.0
+855,Emma,49.0,Phoenix,61053.0
+856,George,31.0,San Diego,38042.0
+857,Julia,53.0,Philadelphia,62744.0
+858,Alice,29.0,Phoenix,56580.0
+859,Bob,40.0,Los Angeles,71580.0
+860,Hannah,,Philadelphia,54205.0
+861,Hannah,48.0,,40550.0
+862,Alice,30.0,Los Angeles,57847.0
+863,Bob,37.0,Philadelphia,32236.0
+864,David,59.0,New York,68687.0
+865,George,30.0,San Antonio,70169.0
+866,Emma,41.0,Phoenix,72054.0
+867,Charlie,39.0,New York,86656.0
+868,Hannah,31.0,New York,53862.0
+869,David,54.0,San Jose,62442.0
+870,Fiona,18.0,San Antonio,89427.0
+871,Julia,54.0,Chicago,57740.0
+872,George,46.0,Houston,58992.0
+873,Ian,37.0,San Jose,49249.0
+874,David,50.0,San Jose,58814.0
+875,Julia,50.0,San Diego,38454.0
+876,Ian,22.0,San Diego,93291.0
+877,,22.0,Dallas,98231.0
+878,Alice,40.0,Philadelphia,79400.0
+879,Charlie,44.0,Los Angeles,36135.0
+880,Hannah,39.0,Phoenix,31286.0
+881,George,45.0,Phoenix,92354.0
+882,Ian,55.0,Dallas,69781.0
+883,,39.0,San Antonio,93932.0
+884,Hannah,38.0,Los Angeles,39001.0
+885,George,42.0,Los Angeles,41531.0
+886,Julia,24.0,New York,42208.0
+887,Alice,42.0,San Diego,78544.0
+888,Fiona,32.0,Phoenix,91148.0
+889,Emma,51.0,Dallas,62047.0
+890,Charlie,51.0,San Diego,68753.0
+891,Bob,41.0,San Diego,85277.0
+892,Alice,54.0,San Antonio,38311.0
+893,Hannah,53.0,San Diego,44657.0
+894,Julia,32.0,San Antonio,86330.0
+895,Fiona,37.0,San Antonio,74178.0
+896,Hannah,54.0,Dallas,96199.0
+897,Julia,48.0,San Diego,64438.0
+898,Bob,22.0,Houston,63442.0
+899,Emma,53.0,San Diego,81813.0
+900,Alice,25.0,San Jose,59705.0
+901,Hannah,44.0,Philadelphia,90848.0
+902,Julia,47.0,Los Angeles,95583.0
+903,Charlie,39.0,Dallas,97589.0
+904,Julia,57.0,San Diego,43731.0
+905,Emma,47.0,Philadelphia,63217.0
+906,David,48.0,New York,87007.0
+907,Ian,45.0,Philadelphia,63559.0
+908,Ian,47.0,New York,68244.0
+909,Charlie,48.0,Phoenix,42728.0
+910,Charlie,43.0,San Diego,67226.0
+911,George,26.0,Los Angeles,42238.0
+912,Bob,58.0,Chicago,72620.0
+913,Fiona,,New York,54582.0
+914,Alice,47.0,San Jose,95015.0
+915,Emma,50.0,Houston,61235.0
+916,Ian,26.0,San Antonio,53693.0
+917,Emma,42.0,Philadelphia,76806.0
+918,George,60.0,San Jose,75526.0
+919,Fiona,49.0,Phoenix,90824.0
+920,Hannah,31.0,San Antonio,45545.0
+921,George,49.0,Houston,32407.0
+922,George,30.0,San Jose,149726.0
+923,Emma,20.0,Phoenix,30065.0
+924,George,35.0,San Jose,49651.0
+925,George,25.0,Houston,39698.0
+926,Hannah,51.0,Los Angeles,31858.0
+927,,29.0,New York,59925.0
+928,Emma,37.0,New York,59485.0
+929,David,22.0,Phoenix,53995.0
+930,David,44.0,Los Angeles,98371.0
+931,David,32.0,Phoenix,59841.0
+932,George,40.0,San Diego,61017.0
+933,Fiona,51.0,Dallas,65032.0
+934,Fiona,54.0,San Jose,94174.0
+935,Charlie,47.0,Dallas,53335.0
+936,Charlie,28.0,San Antonio,70926.0
+937,George,37.0,Dallas,87380.0
+938,George,54.0,Chicago,31438.0
+939,Ian,41.0,San Diego,59564.0
+940,Julia,47.0,San Antonio,48984.0
+941,Julia,56.0,San Diego,66013.0
+942,Hannah,35.0,Los Angeles,32113.0
+943,George,51.0,Houston,33924.0
+944,Charlie,18.0,New York,50827.0
+945,George,32.0,Chicago,55292.0
+946,Alice,52.0,New York,69867.0
+947,Julia,50.0,New York,94619.0
+948,Alice,59.0,Los Angeles,53202.0
+949,Ian,27.0,San Antonio,86893.0
+950,Hannah,49.0,Phoenix,59764.0
+951,Emma,25.0,New York,74330.0
+952,Julia,36.0,San Diego,84386.0
+953,Hannah,18.0,New York,94933.0
+954,Bob,24.0,,72909.0
+955,Bob,25.0,New York,88495.0
+956,David,57.0,Houston,61720.0
+957,Fiona,23.0,New York,
+958,George,25.0,Dallas,60098.0
+959,Charlie,35.0,Dallas,60697.0
+960,George,52.0,Phoenix,46622.0
+961,Emma,41.0,Dallas,63861.0
+962,George,34.0,Houston,84323.0
+963,Ian,52.0,Los Angeles,44064.0
+964,Hannah,34.0,Los Angeles,96269.0
+965,David,47.0,Philadelphia,72076.0
+966,Charlie,33.0,San Diego,92141.0
+967,Charlie,47.0,San Jose,83442.0
+968,Julia,41.0,San Diego,70039.0
+969,Hannah,24.0,San Jose,96968.0
+970,Ian,26.0,Phoenix,46883.0
+971,David,50.0,Houston,74865.0
+972,Hannah,45.0,Los Angeles,44448.0
+973,Fiona,29.0,Philadelphia,47679.0
+974,George,21.0,Houston,33760.0
+975,Fiona,18.0,Chicago,52804.0
+976,Julia,47.0,Dallas,93066.0
+977,George,51.0,Los Angeles,89146.0
+978,Hannah,29.0,New York,30375.0
+979,Emma,40.0,Houston,38120.0
+980,George,33.0,San Diego,60145.0
+981,David,53.0,New York,57951.0
+982,Charlie,36.0,Houston,95948.0
+983,Hannah,50.0,Philadelphia,87115.0
+984,Emma,48.0,Houston,47262.0
+985,Ian,58.0,San Diego,31893.0
+986,Emma,49.0,San Jose,40137.0
+987,Emma,45.0,Houston,72166.0
+988,David,28.0,Houston,61833.0
+989,Julia,41.0,Dallas,50243.0
+990,Julia,59.0,Phoenix,87976.0
+991,George,31.0,San Diego,36378.0
+992,George,22.0,San Diego,43256.0
+993,Charlie,,San Antonio,60786.0
+994,Ian,48.0,Los Angeles,66402.0
+995,Ian,49.0,Los Angeles,50839.0
+996,Ian,46.0,San Diego,44656.0
+997,Emma,,New York,55616.0
+998,Alice,53.0,Los Angeles,89188.0
+999,George,35.0,Phoenix,66726.0
+1000,Julia,33.0,San Jose,81102.0
+822,Bob,48.0,Chicago,37941.0
+949,Ian,27.0,San Antonio,86893.0
+666,Hannah,49.0,Philadelphia,64283.0
+803,George,21.0,Phoenix,90214.0
+730,Hannah,32.0,Dallas,62072.0
+650,David,31.0,San Antonio,90183.0
+88,Julia,46.0,San Antonio,65848.0
+881,George,45.0,Phoenix,92354.0
+887,Alice,42.0,San Diego,78544.0
+263,George,47.0,Phoenix,50773.0
